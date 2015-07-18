@@ -4,8 +4,7 @@ Based on the Facebook and Material Themes
 
 #### Preview
 
-<img src="http://d.pr/i/1g2ck.png">
-<img src="http://d.pr/i/19BsX.png">
+<img src="http://d.pr/i/1eYxO.png">
 
 #### Install
 
