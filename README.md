@@ -1,5 +1,5 @@
 # Chris Burton's Terminal Theme
-Based on the Facebook and Material Themes
+Based on the Facebook and Material Themes and [Jeffrey Way's Theme](https://github.com/christopherburton/Jeffrey-Way-Theme).
 
 
 #### Preview
