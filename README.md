@@ -4,8 +4,8 @@ Based on the Facebook and Material Themes and [Jeffrey Way's Theme](https://gith
 
 #### Preview
 
-<img src="http://d.pr/i/1eYxO.png">
-<img src="http://d.pr/i/1fEUu.gif">
+<img src="http://d.pr/i/18rQ5.png">
+<img src="http://d.pr/i/1hIZo.gif">
 
 #### Install
 
