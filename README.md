@@ -5,7 +5,7 @@ Based on the Facebook and Material Themes and [Jeffrey Way's Theme](https://gith
 #### Preview
 
 <img src="http://d.pr/i/18rQ5.png">
-<img src="http://d.pr/i/1hIZo.gif">
+<img src="http://d.pr/i/1ifQC.gif">
 
 #### Install
 
