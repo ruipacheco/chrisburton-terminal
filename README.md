@@ -1,12 +1,6 @@
 # Chris Burton's Terminal Theme
 Based on the Facebook and Material Themes and [Jeffrey Way's Theme](https://github.com/christopherburton/Jeffrey-Way-Theme).
 
-
-#### Preview
-
-<img src="http://d.pr/i/18rQ5.png">
-<img src="http://d.pr/i/1ifQC.gif">
-
 #### Install
 
 - Go to Terminal => Preferences
